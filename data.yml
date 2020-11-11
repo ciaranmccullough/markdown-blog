@@ -1,0 +1,2605 @@
+# MP Data
+# Schema: first_name, last_name, constituency, email
+
+- first_name: Diane
+  last_name: Abbott
+  constituency: Hackney North and Stoke Newington
+  email: diane.abbott.office@parliament.uk
+- first_name: Debbie
+  last_name: Abrahams
+  constituency: Oldham East and Saddleworth
+  email: abrahamsd@parliament.uk
+- first_name: Nigel
+  last_name: Adams
+  constituency: Selby and Ainsty
+  email: nigel.adams.mp@parliament.uk
+- first_name: Bim
+  last_name: Afolami
+  constituency: Hitchin and Harpenden
+  email: bim.afolami.mp@parliament.uk
+- first_name: Adam
+  last_name: Afriyie
+  constituency: Windsor
+  email: adam.afriyie.mp@parliament.uk
+- first_name: Nickie
+  last_name: Aiken
+  constituency: Cities of London and Westminster
+  email: nickie.aiken.mp@parliament.uk
+- first_name: Peter
+  last_name: Aldous
+  constituency: Waveney
+  email: peter.aldous.mp@parliament.uk
+- first_name: Rushanara
+  last_name: Ali
+  constituency: Bethnal Green and Bow
+  email: rushanara.ali.mp@parliament.uk
+- first_name: Tahir
+  last_name: Ali
+  constituency: Birmingham, Hall Green
+  email: tahir.ali.mp@parliament.uk
+- first_name: Lucy
+  last_name: Allan
+  constituency: Telford
+  email: lucy.allan.mp@parliament.uk
+- first_name: Rosena
+  last_name: Allin-Khan
+  constituency: Tooting
+  email: rosena.allinkhan.mp@parliament.uk
+- first_name: Mike
+  last_name: Amesbury	Weaver
+  constituency: Vale
+  email: mike.amesbury.mp@parliament.uk
+- first_name: David
+  last_name: Amess
+  constituency: Southend West
+  email: amessd@parliament.ukFleur
+- first_name: Fleur
+  last_name: Anderson
+  constituency: Putney
+  email: fleur.anderson.mp@parliament.uk
+- first_name: Lee
+  last_name: Anderson
+  constituency: Ashfield
+  email: lee.anderson.mp@parliament.uk
+- first_name: Stuart
+  last_name: Anderson
+  constituency: Wolverhampton South West
+  email: stuart.anderson.mp@parliament.uk
+- first_name: Stuart
+  last_name: Andrew
+  constituency: Pudsey
+  email: stuart.andrew.mp@parliament.uk
+- first_name: Caroline
+  last_name: Ansell
+  constituency: Eastbourne
+  email: caroline.ansell.mp@parliament.uk
+- first_name: Tonia
+  last_name: Antoniazzi
+  constituency: Gower
+  email: tonia.antoniazzi.mp@parliament.uk
+- first_name: Edward
+  last_name: Argar
+  constituency: Charnwood
+  email: edward.argar.mp@parliament.uk
+- first_name: Jon
+  last_name: Ashworth
+  constituency: Leicester South
+  email: jon.ashworth.mp@parliament.uk
+- first_name: Sarah
+  last_name: Atherton
+  constituency: Wrexham
+  email: sarah.atherton.mp@parliament.uk
+- first_name: Victoria
+  last_name: Atkins
+  constituency: Louth and Horncastle
+  email: Victoria@victoriaatkins.org.uk
+- first_name: Gareth
+  last_name: Bacon
+  constituency: Orpington
+  email: gareth.bacon.mp@parliament.uk
+- first_name: Richard
+  last_name: Bacon
+  constituency: South Norfolk
+  email: richardbaconmp@parliament.uk
+- first_name: Kemi
+  last_name: Badenoch
+  constituency: Saffron Walden
+  email: kemi.badenoch.mp@parliament.uk
+- first_name: Shaun
+  last_name: Bailey
+  constituency: West Bromwich West
+  email: shaun.bailey.mp@parliament.uk
+- first_name: Siobhan
+  last_name: Baillie
+  constituency: Stroud
+  email: siobhan.baillie.mp@parliament.uk
+- first_name: Duncan
+  last_name: Baker
+  constituency: North Norfolk
+  email: duncan@duncanbaker.org.uk
+- first_name: Steven
+  last_name: Baker
+  constituency: Wycombe
+  email: steve.baker.mp@parliament.uk
+- first_name: Harriett
+  last_name: Baldwin
+  constituency: West Worcestershire
+  email: harriett.baldwin.mp@parliament.uk
+- first_name: Steve
+  last_name: Barclay
+  constituency: North East Cambridgeshire
+  email: stephen.barclay.mp@parliament.uk
+- first_name: Hannah
+  last_name: Bardell
+  constituency: Livingston
+  email: hannah.bardell.mp@parliament.uk
+- first_name: Paula
+  last_name: Barker
+  constituency: Liverpool, Wavertree
+  email: paula.barker.mp@parliament.uk
+- first_name: John
+  last_name: Baron
+  constituency: Basildon and Billericay
+  email: baronj@parliament.uk
+- first_name: Simon
+  last_name: Baynes
+  constituency: Clwyd South
+  email: simon.baynes.mp@parliament.uk
+- first_name: Margaret
+  last_name: Beckett
+  constituency: Derby South
+  email: margaret.beckett.mp@parliament.uk
+- first_name: Órfhlaith
+  last_name: Begley
+  constituency: West Tyrone
+  email: orfhlaith.begley@sinnfein.ie
+- first_name: Apsana
+  last_name: Begum
+  constituency: Poplar and Limehouse
+  email: apsana.begum.mp@parliament.uk
+- first_name: Aaron
+  last_name: Bell
+  constituency: Newcastle-under-Lyme
+  email: aaron.bell.mp@parliament.uk
+- first_name: Hilary
+  last_name: Benn
+  constituency: Leeds Central
+  email: bennh@parliament.uk
+- first_name: Scott
+  last_name: Benton
+  constituency: Blackpool South
+  email: scott.benton.mp@parliament.uk
+- first_name: Paul
+  last_name: Beresford
+  constituency: Mole Valley
+  email: annie.winsbury@parliament.uk
+- first_name: Jake
+  last_name: Berry
+  constituency: Rossendale and Darwen
+  email: jake.berry.mp@parliament.uk
+- first_name: Clive
+  last_name: Betts
+  constituency: Sheffield South East
+  email: officeofclivebettsmp@parliament.uk
+- first_name: Saqib
+  last_name: Bhatti
+  constituency: Meriden
+  email: saqib.bhatti@parliament.uk
+- first_name: Mhairi
+  last_name: Black
+  constituency: Paisley and Renfrewshire South
+  email: mhairi.black.mp@parliament.uk
+- first_name: Ian
+  last_name: Blackford
+  constituency: Ross, Skye and Lochaber
+  email: ian.blackford.mp@parliament.uk
+- first_name: Bob
+  last_name: Blackman
+  constituency: Harrow East
+  email: bob.blackman.mp@parliament.uk
+- first_name: Kirsty
+  last_name: Blackman
+  constituency: Aberdeen North
+  email: kirsty.blackman.mp@parliament.uk
+- first_name: Olivia
+  last_name: Blake
+  constituency: Sheffield, Hallam
+  email: olivia.blake.mp@parliament.uk
+- first_name: Paul
+  last_name: Blomfield
+  constituency: Sheffield Central
+  email: paul.blomfield.mp@parliament.uk
+- first_name: Crispin
+  last_name: Blunt
+  constituency: Reigate
+  email: crispinbluntmp@parliament.uk
+- first_name: Peter
+  last_name: Bone
+  constituency: Wellingborough
+  email: bonep@parliament.uk
+- first_name: Steven
+  last_name: Bonnar
+  constituency: Coatbridge, Chryston and Bellshill
+  email: steven.bonnar.mp@parliament.uk
+- first_name: Peter
+  last_name: Bottomley
+  constituency: Worthing West
+  email: bottomleyp@parliament.uk
+- first_name: Andrew
+  last_name: Bowie
+  constituency: West Aberdeenshire and Kincardine
+  email: andrew.bowie.mp@parliament.uk
+- first_name: Tracy
+  last_name: Brabin
+  constituency: Batley and Spen
+  email: tracy.brabin.mp@parliament.uk
+- first_name: Ben
+  last_name: Bradley
+  constituency: Mansfield
+  email: ben.bradley.mp@parliament.uk
+- first_name: Karen
+  last_name: Bradley
+  constituency: Staffordshire Moorlands
+  email: karen.bradley.mp@parliament.uk
+- first_name: Ben
+  last_name: Bradshaw
+  constituency: Exeter
+  email: bradshawb@parliament.uk
+- first_name: Graham
+  last_name: Brady
+  constituency: Altrincham and Sale West
+  email: altsale@parliament.uk
+- first_name: Mickey
+  last_name: Brady
+  constituency: Newry and Armagh
+  email: mickey.brady.mp@parliament.uk
+- first_name: Suella
+  last_name: Braverman
+  constituency: Fareham
+  email: suella.braverman.mp@parliament.uk
+- first_name: Kevin
+  last_name: Brennan
+  constituency: Cardiff West
+  email: brennank@parliament.uk
+- first_name: Jack
+  last_name: Brereton
+  constituency: Stoke-on-Trent South
+  email: jack.brereton.mp@parliament.uk
+- first_name: Andrew
+  last_name: Bridgen
+  constituency: North West Leicestershire
+  email: andrew.bridgen.mp@parliament.uk
+- first_name: Steve
+  last_name: Brine
+  constituency: Winchester
+  email: steve.brine.mp@parliament.uk
+- first_name: Paul
+  last_name: Bristow
+  constituency: Peterborough
+  email: paul.bristow.mp@parliament.uk
+- first_name: Sara
+  last_name: Britcliffe
+  constituency: Hyndburn
+  email: sara.britcliffe.mp@parliament.uk
+- first_name: Deidre
+  last_name: Brock
+  constituency: Edinburgh North and Leith
+  email: deidre.brock.mp@parliament.uk
+- first_name: James
+  last_name: Brokenshire
+  constituency: Old Bexley and Sidcup
+  email: james.brokenshire.mp@parliament.uk
+- first_name: Alan
+  last_name: Brown
+  constituency: Kilmarnock and Loudoun
+  email: alan.brown.mp@parliament.uk
+- first_name: Lyn
+  last_name: Brown
+  constituency: West Ham
+  email: brownl@parliament.uk
+- first_name: Nick
+  last_name: Brown
+  constituency: Newcastle upon Tyne East
+  email: nickbrownmp@parliament.uk
+- first_name: Anthony
+  last_name: Browne
+  constituency: South Cambridgeshire
+  email: anthony.browne.mp@parliament.uk
+- first_name: Fiona
+  last_name: Bruce
+  constituency: Congleton
+  email: fiona.bruce.mp@parliament.uk
+- first_name: Chris
+  last_name: Bryant
+  constituency: Rhondda
+  email: bryantc@parliament.uk
+- first_name: Felicity
+  last_name: Buchan
+  constituency: Kensington
+  email: felicity.buchan.mp@parliament.uk
+- first_name: Karen
+  last_name: Buck
+  constituency: Westminster North
+  email: buckk@parliament.uk
+- first_name: Robert
+  last_name: Buckland
+  constituency: South Swindon
+  email: robert.buckland.mp@parliament.uk
+- first_name: Alex
+  last_name: Burghart
+  constituency: Brentwood and Ongar
+  email: alex.burghart.mp@parliament.uk
+- first_name: Richard
+  last_name: Burgon
+  constituency: Leeds East
+  email: richard@richardburgon.com
+- first_name: Conor
+  last_name: Burns
+  constituency: Bournemouth West
+  email: conor.burns.mp@parliament.uk
+- first_name: Dawn
+  last_name: Butler
+  constituency: Brent Central
+  email: dawn.butler.mp@parliament.uk
+- first_name: Rob
+  last_name: Butler
+  constituency: Aylesbury
+  email: rob.butler.mp@parliament.uk
+- first_name: Ian
+  last_name: Byrne
+  constituency: Liverpool, West Derby
+  email: ian.byrne.mp@parliament.uk
+- first_name: Liam
+  last_name: Byrne
+  constituency: Birmingham, Hodge Hill
+  email: byrnel@parliament.uk
+- first_name: Ruth
+  last_name: Cadbury
+  constituency: Brentford and Isleworth
+  email: ruthcadburymp@parliament.uk
+- first_name: Alun
+  last_name: Cairns
+  constituency: Vale of Glamorgan
+  email: alun.cairns.mp@parliament.uk
+- first_name: Amy
+  last_name: Callaghan
+  constituency: East Dunbartonshire
+  email: amy.callaghan.mp@parliament.uk
+- first_name: Lisa
+  last_name: Cameron
+  constituency: East Kilbride, Strathaven andLesmahagow
+  email: lisa.cameron.mp@parliament.uk
+- first_name: Alan
+  last_name: Campbell
+  constituency: Tynemouth
+  email: alan.campbell.mp@parliament.uk
+- first_name: Gregory
+  last_name: Campbell
+  constituency: East Londonderry
+  email: fieldingm@parliament.uk
+- first_name: Dan
+  last_name: Carden
+  constituency: Liverpool, Walton
+  email: dan.carden.mp@parliament.uk
+- first_name: Alistair
+  last_name: Carmichael
+  constituency: Orkney and Shetland
+  email: carmichaela@parliament.uk
+- first_name: Andy
+  last_name: Carter
+  constituency: Warrington South
+  email: andy.carter.mp@parliament.uk
+- first_name: James
+  last_name: Cartlidge
+  constituency: South Suffolk
+  email: james.cartlidge.mp@parliament.uk
+- first_name: Bill
+  last_name: Cash
+  constituency: Stone
+  email: cashw@parliament.uk
+- first_name: Miriam
+  last_name: Cates
+  constituency: Penistone and Stocksbridge
+  email: miriam.cates.mp@parliament.uk
+- first_name: Maria
+  last_name: Caulfield
+  constituency: Lewes
+  email: maria.caulfield.mp@parliament.uk
+- first_name: Alex
+  last_name: Chalk
+  constituency: Cheltenham
+  email: alex.chalk.mp@parliament.uk
+- first_name: Wendy
+  last_name: Chamberlain
+  constituency: North East Fife
+  email: wendy.chamberlain.mp@parliament.uk
+- first_name: Sarah
+  last_name: Champion
+  constituency: Rotherham
+  email: sarah.champion.mp@parliament.uk
+- first_name: Douglas
+  last_name: Chapman
+  constituency: Dunfermline and West Fife
+  email: douglas.chapman.mp@parliament.uk
+- first_name: Bambos
+  last_name: Charalambous
+  constituency: Enfield, Southgate
+  email: bambos.charalambous.mp@parliament.uk
+- first_name: Joanna
+  last_name: Cherry
+  constituency: Edinburgh South West
+  email: joanna.cherry.mp@parliament.uk
+- first_name: Rehman
+  last_name: Chishti
+  constituency: Gillingham and Rainham
+  email: rehman.chishti.mp@parliament.uk
+- first_name: Christopher
+  last_name: Chope
+  constituency: Christchurch
+  email: chopec@parliament.uk
+- first_name: Jo
+  last_name: Churchill
+  constituency: Bury St Edmunds
+  email: jo.churchill.mp@parliament.uk
+- first_name: Feryal
+  last_name: Clark
+  constituency: Enfield North
+  email: feryal.clark.mp@parliament.uk
+- first_name: Greg
+  last_name: Clark
+  constituency: Tunbridge Wells
+  email: gregclarkmp@parliament.uk
+- first_name: Simon
+  last_name: Clarke
+  constituency: Middlesbrough South and EastCleveland
+  email: simon.clarke.mp@parliament.uk
+- first_name: Theo
+  last_name: Clarke
+  constituency: Stafford
+  email: theo.clarke.mp@parliament.uk
+- first_name: Brendan
+  last_name: Clarke-Smith
+  constituency: Bassetlaw
+  email: brendan.clarkesmith.mp@parliament.uk
+- first_name: Chris
+  last_name: Clarkson
+  constituency: Heywood and Middleton
+  email: chris.clarkson.mp@parliament.uk
+- first_name: James
+  last_name: Cleverly
+  constituency: Braintree
+  email: james.cleverly.mp@parliament.uk
+- first_name: Geoffrey
+  last_name: Clifton-Brown
+  constituency: The Cotswolds
+  email: cliftonbrowng@parliament.uk
+- first_name: Therese
+  last_name: Coffey
+  constituency: Suffolk Coastal
+  email: therese.coffey.mp@parliament.uk
+- first_name: Elliot
+  last_name: Colburn
+  constituency: Carshalton and Wallington
+  email: elliot.colburn.mp@parliament.uk
+- first_name: Damian
+  last_name: Collins
+  constituency: Folkestone and Hythe
+  email: damian.collins.mp@parliament.uk
+- first_name: Daisy
+  last_name: Cooper
+  constituency: St Albans
+  email: daisy.cooper.mp@parliament.uk
+- first_name: Rosie
+  last_name: Cooper
+  constituency: West Lancashire
+  email: rosie@rosiecooper.net
+- first_name: Yvette
+  last_name: Cooper
+  constituency: Normanton, Pontefract and Castleford
+  email: coopery@parliament.uk
+- first_name: Jeremy
+  last_name: Corbyn
+  constituency: Islington North
+  email: jeremy.corbyn.mp@parliament.uk
+- first_name: Alberto
+  last_name: Costa
+  constituency: South Leicestershire
+  email: alberto.costa.mp@parliament.uk
+- first_name: Robert
+  last_name: Courts
+  constituency: Witney
+  email: robert.courts.mp@parliament.uk
+- first_name: Claire
+  last_name: Coutinho
+  constituency: East Surrey
+  email: claire.coutinho.mp@parliament.uk
+- first_name: Ronnie
+  last_name: Cowan
+  constituency: Inverclyde
+  email: ronnie.cowan.mp@parliament.uk
+- first_name: Geoffrey
+  last_name: Cox
+  constituency: Torridge and West Devon
+  email: coxg@parliament.uk
+- first_name: Neil
+  last_name: Coyle
+  constituency: Bermondsey and Old Southwark
+  email: neil.coyle.mp@parliament.uk
+- first_name: Stephen
+  last_name: Crabb
+  constituency: Preseli Pembrokeshire
+  email: stephen.crabb.mp@parliament.uk
+- first_name: Angela
+  last_name: Crawley
+  constituency: Lanark and Hamilton East
+  email: angela.crawley.mp@parliament.uk
+- first_name: Stella
+  last_name: Creasy
+  constituency: Walthamstow
+  email: stella.creasy.mp@parliament.uk
+- first_name: Virginia
+  last_name: Crosbie
+  constituency: Ynys Môn
+  email: virginia.crosbie.mp@parliament.uk
+- first_name: Tracey
+  last_name: Crouch
+  constituency: Chatham and Aylesford
+  email: tracey.crouch.mp@parliament.uk
+- first_name: Jon
+  last_name: Cruddas
+  constituency: Dagenham and Rainham
+  email: cruddasj@parliament.uk
+- first_name: John
+  last_name: Cryer
+  constituency: Leyton and Wanstead
+  email: john.cryer.mp@parliament.uk
+- first_name: Judith
+  last_name: Cummins
+  constituency: Bradford South
+  email: judith.cummins.mp@parliament.uk
+- first_name: Alex
+  last_name: Cunningham
+  constituency: Stockton North
+  email: alex.cunningham.mp@parliament.uk
+- first_name: Janet
+  last_name: Daby
+  constituency: Lewisham East
+  email: janet.daby.mp@parliament.uk
+- first_name: James
+  last_name: Daly
+  constituency: Bury North
+  email: james.daly.mp@parliament.uk
+- first_name: Edward
+  last_name: Davey
+  constituency: Kingston and Surbiton
+  email: edward.davey.mp@parliament.uk
+- first_name: Wayne
+  last_name: David
+  constituency: Caerphilly
+  email: davidw@parliament.uk
+- first_name: David
+  last_name: Davies
+  constituency: Monmouth
+  email: david.davies.mp@parliament.uk
+- first_name: Gareth
+  last_name: Davies
+  constituency: Grantham and Stamford
+  email: gareth.davies.mp@parliament.uk
+- first_name: Geraint
+  last_name: Davies
+  constituency: Swansea West
+  email: geraint.davies.mp@parliament.uk
+- first_name: James
+  last_name: Davies
+  constituency: Vale of Clwyd
+  email: james.davies.mp@parliament.uk
+- first_name: Mims
+  last_name: Davies
+  constituency: Mid Sussex
+  email: mims.davies.mp@parliament.uk
+- first_name: Philip
+  last_name: Davies
+  constituency: Shipley
+  email: daviesp@parliament.uk
+- first_name: Alex
+  last_name: Davies-Jones
+  constituency: Pontypridd
+  email: alex.daviesjones.mp@parliament.uk
+- first_name: David
+  last_name: Davis
+  constituency: Haltemprice and Howden
+  email: david.davis.mp@parliament.uk
+- first_name: Dehenna
+  last_name: Davison
+  constituency: Bishop Auckland
+  email: dehenna.davison.mp@parliament.uk
+- first_name: Martyn
+  last_name: Day
+  constituency: Linlithgow and East Falkirk
+  email: martyn.day.mp@parliament.uk
+- first_name: Marsha
+  last_name: de Cordova
+  constituency: Battersea
+  email: marsha.decordova.mp@parliament.uk
+- first_name: Thangam
+  last_name: Debbonaire
+  constituency: Bristol West
+  email: thangam.debbonaire.mp@parliament.uk
+- first_name: Tan
+  last_name: Dhesi
+  constituency: Slough
+  email: tan.dhesi.mp@parliament.uk
+- first_name: Caroline
+  last_name: Dinenage
+  constituency: Gosport
+  email: caroline.dinenage.mp@parliament.uk
+- first_name: Sarah
+  last_name: Dines
+  constituency: Derbyshire Dales
+  email: sarah.dines.mp@parliament.uk
+- first_name: Jonathan
+  last_name: Djanogly
+  constituency: Huntingdon
+  email: jonathan.djanogly.mp@parliament.uk
+- first_name: Leo
+  last_name: Docherty
+  constituency: Aldershot
+  email: leo.docherty.mp@parliament.uk
+- first_name: Martin
+  last_name: Docherty
+  constituency: West Dunbartonshire
+  email: martin.docherty.mp@parliament.uk
+- first_name: Anneliese
+  last_name: Dodds
+  constituency: Oxford East
+  email: anneliese.dodds.mp@parliament.uk
+- first_name: Jeffrey M.
+  last_name: Donaldson
+  constituency: Lagan Valley
+  email: jeffrey.donaldson.mp@parliament.uk
+- first_name: Michelle
+  last_name: Donelan
+  constituency: Chippenham
+  email: michelle.donelan.mp@parliament.uk
+- first_name: Dave
+  last_name: Doogan
+  constituency: Angus
+  email: dave.doogan.mp@parliament.uk
+- first_name: Allan
+  last_name: Dorans
+  constituency: Ayr, Carrick and Cumnock
+  email: allan.dorans.mp@parliament.uk
+- first_name: Nadine
+  last_name: Dorries
+  constituency: Mid Bedfordshire
+  email: dorriesn@parliament.uk
+- first_name: Steve
+  last_name: Double
+  constituency: St Austell and Newquay
+  email: steve.double.mp@parliament.uk
+- first_name: Stephen
+  last_name: Doughty
+  constituency: Cardiff South and Penarth
+  email: stephen.doughty.mp@parliament.uk
+- first_name: Peter
+  last_name: Dowd
+  constituency: Bootle
+  email: peter.dowd.mp@parliament.uk
+- first_name: Oliver
+  last_name: Dowden
+  constituency: Hertsmere
+  email: oliver.dowden.mp@parliament.uk
+- first_name: Jackie
+  last_name: Doyle-Price
+  constituency: Thurrock
+  email: jackie.doyleprice.mp@parliament.uk
+- first_name: Richard
+  last_name: Drax
+  constituency: South Dorset
+  email: richard.drax.mp@parliament.uk
+- first_name: Jack
+  last_name: Dromey
+  constituency: Birmingham, Erdington
+  email: jack.dromey.mp@parliament.uk
+- first_name: Flick
+  last_name: Drummond
+  constituency: Meon Valley
+  email: flick.drummond.mp@parliament.uk
+- first_name: James
+  last_name: Duddridge
+  constituency: Rochford and Southend East
+  email: james@jamesduddridge.com
+- first_name: Rosie
+  last_name: Duffield
+  constituency: Canterbury
+  email: rosie.duffield.mp@parliament.uk
+- first_name: David
+  last_name: Duguid
+  constituency: Banff and Buchan
+  email: david.duguid.mp@parliament.uk
+- first_name: Iain
+  last_name: Duncan Smith
+  constituency: Chingford and Woodford Green
+  email: Iain.duncansmith.mp@parliament.uk
+- first_name: Philip
+  last_name: Dunne
+  constituency: Ludlow
+  email: philip.dunne.mp@parliament.uk
+- first_name: Angela
+  last_name: Eagle
+  constituency: Wallasey
+  email: eaglea@parliament.uk
+- first_name: Maria
+  last_name: Eagle
+  constituency: Garston and Halewood
+  email: eaglem@parliament.uk
+- first_name: Colum
+  last_name: Eastwood
+  constituency: Foyle
+  email: colum.eastwood.mp@parliament.uk
+- first_name: Mark
+  last_name: Eastwood
+  constituency: Dewsbury
+  email: mark.eastwood.mp@parliament.uk
+- first_name: Jonathan
+  last_name: Edwards
+  constituency: Carmarthen East and Dinefwr
+  email: jonathan.edwards.mp@parliament.uk
+- first_name: Ruth
+  last_name: Edwards
+  constituency: Rushcliffe
+  email: ruth.edwards.mp@parliament.uk
+- first_name: Clive
+  last_name: Efford
+  constituency: Eltham
+  email: effordc@parliament.uk
+- first_name: Julie
+  last_name: Elliott
+  constituency: Sunderland Central
+  email: julie.elliott.mp@parliament.uk
+- first_name: Michael
+  last_name: Ellis
+  constituency: Northampton North
+  email: michael.ellis.mp@parliament.uk
+- first_name: Tobias
+  last_name: Ellwood
+  constituency: Bournemouth East
+  email: tobias.ellwood.mp@parliament.uk
+- first_name: Chris
+  last_name: Elmore
+  constituency: Ogmore
+  email: Chris.Elmore.mp@parliament.uk
+- first_name: Natalie
+  last_name: Elphicke
+  constituency: Dover
+  email: natalie.elphicke.mp@parliament.uk
+- first_name: Florence
+  last_name: Eshalomi
+  constituency: Vauxhall
+  email: florence.eshalomi.mp@parliament.uk
+- first_name: Bill
+  last_name: Esterson
+  constituency: Sefton Central
+  email: bill.esterson.mp@parliament.uk
+- first_name: George
+  last_name: Eustice
+  constituency: Camborne and Redruth
+  email: george.eustice.mp@parliament.uk
+- first_name: Chris
+  last_name: Evans
+  constituency: Islwyn
+  email: chris.evans.mp@parliament.uk
+- first_name: Luke
+  last_name: Evans
+  constituency: Bosworth
+  email: luke.evans.mp@parliament.uk
+- first_name: Nigel
+  last_name: Evans
+  constituency: Ribble Valley
+  email: evansn@parliament.uk
+- first_name: David
+  last_name: Evennett
+  constituency: Bexleyheath and Crayford
+  email: david.evennett.mp@parliament.uk
+- first_name: Ben
+  last_name: Everitt
+  constituency: Milton Keynes North
+  email: ben.everitt.mp@parliament.uk
+- first_name: Michael
+  last_name: Fabricant
+  constituency: Lichfield
+  email:
+  # No email provided
+- first_name: Laura
+  last_name: Farris
+  constituency: Newbury
+  email: laura.farris.mp@parliament.uk
+- first_name: Tim
+  last_name: Farron
+  constituency: Westmorland and Lonsdale
+  email: farront@parliament.uk
+- first_name: Stephen
+  last_name: Farry
+  constituency: North Down
+  email: stephen.farry.mp@parliament.uk
+- first_name: Simon
+  last_name: Fell
+  constituency: Barrow and Furness
+  email: simon.fell.mp@parliament.uk
+- first_name: Marion
+  last_name: Fellows
+  constituency: Motherwell and Wishaw
+  email: marion.fellows.mp@parliament.uk
+- first_name: Margaret
+  last_name: Ferrier
+  constituency: Rutherglen and Hamilton West
+  email: margaret.ferrier.mp@parliament.uk
+- first_name: John
+  last_name: Finucane
+  constituency: Belfast North
+  email: john.finucane.mp@parliament.uk
+- first_name: Colleen
+  last_name: Fletcher
+  constituency: Coventry North East
+  email: colleen.fletcher.mp@parliament.uk
+- first_name: Katherine
+  last_name: Fletcher
+  constituency: South Ribble
+  email: katherine.fletcher.mp@parliament.uk
+- first_name: Mark
+  last_name: Fletcher
+  constituency: Bolsover
+  email: mark.fletcher.mp@parliament.uk
+- first_name: Nicholas
+  last_name: Fletcher
+  constituency: Don Valley
+  email: nick.fletcher.mp@parliament.uk
+- first_name: Stephen
+  last_name: Flynn
+  constituency: Aberdeen South
+  email: stephen.flynn.mp@parliament.uk
+- first_name: Vicky
+  last_name: Ford
+  constituency: Chelmsford
+  email: vicky.ford.mp@parliament.uk
+- first_name: Kevin
+  last_name: Foster
+  constituency: Torbay
+  email: kevin.foster.mp@parliament.uk
+- first_name: Yvonne
+  last_name: Fovargue
+  constituency: Makerfield
+  email: yvonne.fovargue.mp@parliament.uk
+- first_name: Liam
+  last_name: Fox
+  constituency: North Somerset
+  email: ione.douglas@parliament.uk
+- first_name: Vicky
+  last_name: Foxcroft
+  constituency: Lewisham, Deptford
+  email: vicky.foxcroft.mp@parliament.uk
+- first_name: Mary
+  last_name: Foy
+  constituency: City of Durham
+  email: mary.foy.mp@parliament.uk
+- first_name: Mark
+  last_name: Francois
+  constituency: Rayleigh and Wickford
+  email: mark.francois.mp@parliament.uk
+- first_name: Lucy
+  last_name: Frazer
+  constituency: South East Cambridgeshire
+  email: lucy.frazer.mp@parliament.uk
+- first_name: George
+  last_name: Freeman
+  constituency: Mid Norfolk
+  email: george.freeman.mp@parliament.uk
+- first_name: Mike
+  last_name: Freer
+  constituency: Finchley and Golders Green
+  email: mike.freer.mp@parliament.uk
+- first_name: Richard
+  last_name: Fuller
+  constituency: North East Bedfordshire
+  email: richard.fuller.mp@parliament.uk
+- first_name: Gill
+  last_name: Furniss
+  constituency: Sheffield, Brightside and Hillsborough
+  email: gill.furniss.mp@parliament.uk
+- first_name: Marcus
+  last_name: Fysh
+  constituency: Yeovil
+  email: marcus.fysh.mp@parliament.uk
+- first_name: Roger
+  last_name: Gale
+  constituency: North Thanet
+  email: galerj@parliament.uk
+- first_name: Barry
+  last_name: Gardiner
+  constituency: Brent North
+  email: gardinerb@parliament.uk
+- first_name: Mark
+  last_name: Garnier
+  constituency: Wyre Forest
+  email: mark.garnier.mp@parliament.uk
+- first_name: Nusrat
+  last_name: Ghani
+  constituency: Wealden
+  email: nusrat.ghani.mp@parliament.uk
+- first_name: Nick
+  last_name: Gibb
+  constituency: Bognor Regis and Littlehampton
+  email: gibbn@parliament.uk
+- first_name: Patricia
+  last_name: Gibson
+  constituency: North Ayrshire and Arran	patricia.
+  email: gibson.mp@parliament.uk
+- first_name: Peter
+  last_name: Gibson
+  constituency: Darlington
+  email: peter.gibson.mp@parliament.uk
+- first_name: Jo
+  last_name: Gideon
+  constituency: Stoke-on-Trent Central
+  email: jo.gideon.mp@parliament.uk
+- first_name: Michelle
+  last_name: Gildernew
+  constituency: Fermanagh and South Tyrone
+  email: michelle.gildernew.mp@parliament.uk
+- first_name: Preet Kaur
+  last_name: Gill
+  constituency: Birmingham, Edgbaston
+  email: preet.gill.mp@parliament.uk
+- first_name: Cheryl
+  last_name: Gillan
+  constituency: Chesham and Amersham
+  email: cheryl.gillan.mp@parliament.uk
+- first_name: Paul
+  last_name: Girvan
+  constituency: South Antrim
+  email: paul.girvan.mp@parliament.uk
+- first_name: John
+  last_name: Glen
+  constituency: Salisbury
+  email: john.glen.mp@parliament.uk
+- first_name: Mary
+  last_name: Glindon
+  constituency: North Tyneside
+  email: mary.glindon.mp@parliament.uk
+- first_name: Robert
+  last_name: Goodwill
+  constituency: Scarborough and Whitby
+  email: robert.goodwill.mp@parliament.uk
+- first_name: Michael
+  last_name: Gove
+  constituency: Surrey Heath
+  email: michael.gove.mp@parliament.uk
+- first_name: Patrick
+  last_name: Grady
+  constituency: Glasgow North
+  email: patrick.grady.mp@parliament.uk
+- first_name: Richard
+  last_name: Graham
+  constituency: Gloucester
+  email: richard.graham.mp@parliament.uk
+- first_name: Helen
+  last_name: Grant
+  constituency: Maidstone and The Weald
+  email: helen.grant.mp@parliament.uk
+- first_name: Peter
+  last_name: Grant
+  constituency: Glenrothes
+  email: peter.grant.mp@parliament.uk
+- first_name: James
+  last_name: Gray
+  constituency: North Wiltshire
+  email: jamesgraymp@parliament.uk
+- first_name: Neil
+  last_name: Gray
+  constituency: Airdrie and Shotts
+  email: neil.gray.mp@parliament.uk
+- first_name: Chris
+  last_name: Grayling
+  constituency: Epsom and Ewell
+  email: chris.grayling.mp@parliament.uk
+- first_name: Chris
+  last_name: Green
+  constituency: Bolton West
+  email: chris.green.mp@parliament.uk
+- first_name: Damian
+  last_name: Green
+  constituency: Ashford
+  email: damian.green.mp@parliament.uk
+- first_name: Kate
+  last_name: Green
+  constituency: Stretford and Urmston
+  email: kate.green.mp@parliament.uk
+- first_name: Lilian
+  last_name: Greenwood
+  constituency: Nottingham South
+  email: lilian.greenwood.mp@parliament.uk
+- first_name: Margaret
+  last_name: Greenwood
+  constituency: Wirral West
+  email: margaret.greenwood.mp@parliament.uk
+- first_name: Andrew
+  last_name: Griffith
+  constituency: Arundel and South Downs
+  email: andrew.griffiths.mp@parliament.uk
+- first_name: Nia
+  last_name: Griffith
+  constituency: Llanelli
+  email: nia.griffith.mp@parliament.uk
+- first_name: Kate
+  last_name: Griffiths
+  constituency: Burton
+  email: kate.griffiths.mp@parliament.uk
+- first_name: James
+  last_name: Grundy
+  constituency: Leigh
+  email: james.grundy.mp@parliament.uk
+- first_name: Jonathan
+  last_name: Gullis
+  constituency: Stoke-on-Trent North
+  email: jonathan.gullis.mp@parliament.uk
+- first_name: Andrew
+  last_name: Gwynne
+  constituency: Denton and Reddish
+  email: gwynnea@parliament.uk
+- first_name: Louise
+  last_name: Haigh
+  constituency: Sheffield, Heeley
+  email: louise.haigh.mp@parliament.uk
+- first_name: Robert
+  last_name: Halfon
+  constituency: Harlow
+  email: halfon4harlow@roberthalfon.com
+- first_name: Luke
+  last_name: Hall
+  constituency: Thornbury and Yate
+  email: luke.hall.mp@parliament.uk
+- first_name: Fabian
+  last_name: Hamilton
+  constituency: Leeds North East
+  email: fabian.hamilton.mp@parliament.uk
+- first_name: Stephen
+  last_name: Hammond
+  constituency: Wimbledon
+  email: stephen.hammond.mp@parliament.uk
+- first_name: Matthew
+  last_name: Hancock
+  constituency: West Suffolk
+  email: matt.hancock.mp@parliament.uk
+- first_name: Greg
+  last_name: Hands
+  constituency: Chelsea and Fulham
+  email: handsg@parliament.uk
+- first_name: Claire
+  last_name: Hanna
+  constituency: Belfast South
+  email: claire.hanna.mp@parliament.uk
+- first_name: Neale
+  last_name: Hanvey
+  constituency: Kirkcaldy and Cowdenbeath
+  email: neale.hanvey.mp@parliament.uk
+- first_name: Emma
+  last_name: Hardy
+  constituency: Kingston upon Hull West and Hessle
+  email: emma.hardy.mp@parliament.uk
+- first_name: Harriet
+  last_name: Harman
+  constituency: Camberwell and Peckham
+  email: harriet.harman.mp@parliament.uk
+- first_name: Mark
+  last_name: Harper
+  constituency: Forest of Dean
+  email: mark.harper.mp@parliament.uk
+- first_name: Carolyn
+  last_name: Harris
+  constituency: Swansea East
+  email: carolyn.harris.mp@parliament.uk
+- first_name: Rebecca
+  last_name: Harris
+  constituency: Castle Point
+  email: rebecca.harris.mp@parliament.uk
+- first_name: Trudy
+  last_name: Harrison
+  constituency: Copeland
+  email: trudy.harrison.mp@parliament.uk
+- first_name: Sally-Ann
+  last_name: Hart
+  constituency: Hastings and Rye
+  email: sallyann.hart.mp@parliament.uk
+- first_name: Simon
+  last_name: Hart
+  constituency: Carmarthen West and South Pembrokeshire
+  email: simon.hart.mp@parliament.uk
+- first_name: Helen
+  last_name: Hayes
+  constituency: Dulwich and West Norwood
+  email: helen.hayes.mp@parliament.uk
+- first_name: John
+  last_name: Hayes
+  constituency: South Holland and The Deepings
+  email: hayesj@parliament.uk
+- first_name: Christopher
+  last_name: Hazzard
+  constituency: South Down
+  email: chris.hazzard.mp@parliament.uk
+- first_name: Oliver
+  last_name: Heald
+  constituency: North East Hertfordshire
+  email: Oliver.heald.mp@parliament.uk
+- first_name: John
+  last_name: Healey
+  constituency: Wentworth and Dearne
+  email: john.healey.mp@parliament.uk
+- first_name: James
+  last_name: Heappey
+  constituency: Wells
+  email: james.heappey.mp@parliament.uk
+- first_name: Chris
+  last_name: Heaton-Harris
+  constituency: Daventry
+  email: chris.heatonharris.mp@parliament.uk
+- first_name: Gordon
+  last_name: Henderson
+  constituency: Sittingbourne and Sheppey
+  email: gordon.henderson.mp@parliament.uk
+- first_name: Mark
+  last_name: Hendrick
+  constituency: Preston
+  email: mark.hendrick.mp@parliament.uk
+- first_name: Drew
+  last_name: Hendry
+  constituency: Inverness, Nairn, Badenoch and Strathspey
+  email: drew.hendry.mp@parliament.uk
+- first_name: Darren
+  last_name: Henry
+  constituency: Broxtowe
+  email: darren.henry.mp@parliament.uk
+- first_name: Antony
+  last_name: Higginbotham
+  constituency: Burnley
+  email: antony.higginbotham.mp@parliament.uk
+- first_name: Mike
+  last_name: Hill
+  constituency: Hartlepool
+  email: mike.hill.mp@parliament.uk
+- first_name: Meg
+  last_name: Hillier
+  constituency: Hackney South and Shoreditch
+  email: meghilliermp@parliament.uk
+- first_name: Damian
+  last_name: Hinds
+  constituency: East Hampshire
+  email: damian.hinds.mp@parliament.uk
+- first_name: Simon
+  last_name: Hoare
+  constituency: North Dorset
+  email: simon.hoare.mp@parliament.uk
+- first_name: Wera
+  last_name: Hobhouse
+  constituency: Bath
+  email: office@werahobhouse.co.uk
+- first_name: Margaret
+  last_name: Hodge
+  constituency: Barking
+  email: hodgem@parliament.uk
+- first_name: Sharon
+  last_name: Hodgson
+  constituency: Washington and Sunderland West
+  email: sharon.hodgson.mp@parliament.uk
+- first_name: Richard
+  last_name: Holden
+  constituency: North West Durham
+  email: richard.holden.mp@parliament.uk
+- first_name: Kate
+  last_name: Hollern
+  constituency: Blackburn
+  email: kate.hollern.mp@parliament.uk
+- first_name: Kevin
+  last_name: Hollinrake
+  constituency: Thirsk and Malton
+  email: kevin.hollinrake.mp@parliament.uk
+- first_name: Philip
+  last_name: Hollobone
+  constituency: Kettering
+  email: philip.hollobone.mp@parliament.uk
+- first_name: Adam
+  last_name: Holloway
+  constituency: Gravesham
+  email: hollowaya@parliament.uk
+- first_name: Paul
+  last_name: Holmes
+  constituency: Eastleigh
+  email: paul.holmes.mp@parliament.uk
+- first_name: Rachel
+  last_name: Hopkins
+  constituency: Luton South
+  email: rachel.hopkins.mp@parliament.uk
+- first_name: Stewart
+  last_name: Hosie
+  constituency: Dundee East
+  email: hosies@parliament.uk
+- first_name: George
+  last_name: Howarth
+  constituency: Knowsley
+  email: george.howarth.mp@parliament.uk
+- first_name: John
+  last_name: Howell
+  constituency: Henley
+  email: howelljm@parliament.uk
+- first_name: Paul
+  last_name: Howell
+  constituency: Sedgefield
+  email: paul.howell.mp@parliament.uk
+- first_name: Lindsay
+  last_name: Hoyle
+  constituency: Chorley
+  email: Lindsay.hoyle.mp@parliament.uk
+- first_name: Nigel
+  last_name: Huddleston
+  constituency: Mid Worcestershire
+  email: nigel.huddleston.mp@parliament.uk
+- first_name: Neil
+  last_name: Hudson
+  constituency: Penrith and The Border
+  email: neil.hudson.mp@parliament.uk
+- first_name: Eddie
+  last_name: Hughes
+  constituency: Walsall North
+  email: eddie.hughes.mp@parliament.uk
+- first_name: Jane
+  last_name: Hunt
+  constituency: Loughborough
+  email: jane.hunt.mp@parliament.uk
+- first_name: Jeremy
+  last_name: Hunt
+  constituency: South West Surrey
+  email: huntj@parliament.uk
+- first_name: Tom
+  last_name: Hunt
+  constituency: Ipswich
+  email: tom.hunt.mp@parliament.uk
+- first_name: Rupa
+  last_name: Huq
+  constituency: Ealing Central and Acton
+  email: rupa.huq.mp@parliament.uk
+- first_name: Imran
+  last_name: Hussain
+  constituency: Bradford East
+  email: imran.hussain.mp@parliament.uk
+- first_name: Alister
+  last_name: Jack
+  constituency: Dumfries and Galloway
+  email: alister.jack.mp@parliament.uk
+- first_name: Christine
+  last_name: Jardine
+  constituency: Edinburgh West
+  email: christine.jardine.mp@parliament.uk
+- first_name: Dan
+  last_name: Jarvis
+  constituency: Barnsley Central
+  email: dan.jarvis.mp@parliament.uk
+- first_name: Sajid
+  last_name: Javid
+  constituency: Bromsgrove
+  email: sajid.javid.mp@parliament.uk
+- first_name: Ranil
+  last_name: Jayawardena
+  constituency: North East Hampshire
+  email: Ranil@TellRanil.com
+- first_name: Bernard
+  last_name: Jenkin
+  constituency: Harwich and North Essex
+  email: bernard.jenkin.mp@parliament.uk
+- first_name: Mark
+  last_name: Jenkinson
+  constituency: Workington
+  email: mark.jenkinson.mp@parliament.uk
+- first_name: Andrea
+  last_name: Jenkyns
+  constituency: Morley and Outwood
+  email: andrea.jenkyns.mp@parliament.uk
+- first_name: Robert
+  last_name: Jenrick
+  constituency: Newark
+  email: robert.jenrick.mp@parliament.uk
+- first_name: Boris
+  last_name: Johnson
+  constituency: Uxbridge and South Ruislip
+  email: boris.johnson.mp@parliament.uk
+- first_name: Caroline
+  last_name: Johnson
+  constituency: Sleaford and North Hykeham
+  email: caroline.johnson.mp@parliament.uk
+- first_name: Diana R.
+  last_name: Johnson
+  constituency: Kingston upon Hull North
+  email: johnsond@parliament.uk
+- first_name: Gareth
+  last_name: Johnson
+  constituency: Dartford
+  email: gareth.johnson.mp@parliament.uk
+- first_name: Kim
+  last_name: Johnson
+  constituency: Liverpool, Riverside
+  email: kim.johnson.mp@parliament.uk
+- first_name: David
+  last_name: Johnston
+  constituency: Wantage
+  email: david.johnston.mp@parliament.uk
+- first_name: Andrew
+  last_name: Jones
+  constituency: Harrogate and Knaresborough
+  email: andrew.jones.mp@parliament.uk
+- first_name: Darren
+  last_name: Jones
+  constituency: Bristol North West
+  email: darren.jones.mp@parliament.uk
+- first_name: David
+  last_name: Jones
+  constituency: Clwyd West
+  email: katharine.huggins@parliament.uk
+- first_name: Fay
+  last_name: Jones
+  constituency: Brecon and Radnorshire
+  email: fay.jones.mp@parliament.uk
+- first_name: Gerald
+  last_name: Jones
+  constituency: Merthyr Tydfil and Rhymney
+  email: gerald.jones.mp@parliament.uk
+- first_name: Kevan
+  last_name: Jones
+  constituency: North Durham
+  email: kevanjonesmp@parliament.uk
+- first_name: Marcus
+  last_name: Jones
+  constituency: Nuneaton
+  email: marcus.jones.mp@parliament.uk
+- first_name: Ruth
+  last_name: Jones
+  constituency: Newport West
+  email: ruth.jones.mp@parliament.uk
+- first_name: Sarah
+  last_name: Jones
+  constituency: Croydon Central
+  email: sarah.jones.mp@parliament.uk
+- first_name: Simon
+  last_name: Jupp
+  constituency: East Devon
+  email: simon.jupp.mp@parliament.uk
+- first_name: Mike
+  last_name: Kane
+  constituency: Wythenshawe and Sale East
+  email: mike.kane.mp@parliament.uk
+- first_name: Daniel
+  last_name: Kawczynski
+  constituency: Shrewsbury and Atcham
+  email: kawczynskid@parliament.uk
+- first_name: Alicia
+  last_name: Kearns
+  constituency: Rutland and Melton
+  email: alicia.kearns.mp@parliament.uk
+- first_name: Gillian
+  last_name: Keegan
+  constituency: Chichester
+  email: gillian.keegan.mp@parliament.uk
+- first_name: Barbara
+  last_name: Keeley
+  constituency: Worsley and Eccles South
+  email: keeleyb@parliament.uk
+- first_name: Liz
+  last_name: Kendall
+  constituency: Leicester West
+  email: liz.kendall.mp@parliament.uk
+- first_name: Afzal
+  last_name: Khan
+  constituency: Manchester, Gorton
+  email: afzal.khan.mp@parliament.uk
+- first_name: Imran Ahmad
+  last_name: Khan
+  constituency: Wakefield
+  email: imran.mp@parliament.uk
+- first_name: Stephen
+  last_name: Kinnock
+  constituency: Aberavon
+  email: stephen.kinnock.mp@parliament.uk
+- first_name: Greg
+  last_name: Knight
+  constituency: East Yorkshire
+  email: sothcottt@parliament.uk
+- first_name: Julian
+  last_name: Knight
+  constituency: Solihull
+  email: julian.knight.mp@parliament.uk
+- first_name: Danny
+  last_name: Kruger
+  constituency: Devizes
+  email: danny.kruger.mp@parliament.uk
+- first_name: Kwasi
+  last_name: Kwarteng
+  constituency: Spelthorne
+  email: kwasi.kwarteng.mp@parliament.uk
+- first_name: Peter
+  last_name: Kyle
+  constituency: Hove
+  email: peter.kyle.mp@parliament.uk
+- first_name: Eleanor
+  last_name: Laing
+  constituency: Epping Forest
+  email: eleanor.laing.mp@parliament.uk
+- first_name: Ben
+  last_name: Lake
+  constituency: Ceredigion
+  email: ben.lake.mp@parliament.uk
+- first_name: David
+  last_name: Lammy
+  constituency: Tottenham
+  email: lammyd@parliament.uk
+- first_name: John
+  last_name: Lamont
+  constituency: Berwickshire, Roxburgh and Selkirk
+  email: john.lamont.mp@parliament.uk
+- first_name: Robert
+  last_name: Largan
+  constituency: High Peak
+  email: mail@robertlargan.co.uk
+- first_name: Pauline
+  last_name: Latham
+  constituency: Mid Derbyshire
+  email: pauline.latham.mp@parliament.uk
+- first_name: Ian
+  last_name: Lavery
+  constituency: Wansbeck
+  email: ian.lavery.mp@parliament.uk
+- first_name: Chris
+  last_name: Law
+  constituency: Dundee West
+  email: chris.law.mp@parliament.uk
+- first_name: Andrea
+  last_name: Leadsom
+  constituency: South Northamptonshire
+  email: andrea.leadsom.mp@parliament.uk
+- first_name: Edward
+  last_name: Leigh
+  constituency: Gainsborough
+  email: edward.leigh.mp@parliament.uk
+- first_name: Ian
+  last_name: Levy
+  constituency: Blyth Valley
+  email: ian.levy.mp@parliament.uk
+- first_name: Emma
+  last_name: Lewell-Buck
+  constituency: South Shields
+  email: emma.lewell-buck.mp@parliament.uk
+- first_name: Andrew
+  last_name: Lewer
+  constituency: Northampton South
+  email: andrew.lewer.mp@parliament.uk
+- first_name: Brandon
+  last_name: Lewis
+  constituency: Great Yarmouth
+  email: brandon.lewis.mp@parliament.uk
+- first_name: Clive
+  last_name: Lewis
+  constituency: Norwich South
+  email: clive.lewis.mp@parliament.uk
+- first_name: Julian
+  last_name: Lewis
+  constituency: New Forest East
+  email:
+  # No email provided
+- first_name: Ian
+  last_name: Liddell-Grainger
+  constituency: Bridgwater and West Somerset
+  email: ianlg@parliament.uk
+- first_name: David
+  last_name: Linden
+  constituency: Glasgow East
+  email: david.linden.mp@parliament.uk
+- first_name: Tony
+  last_name: Lloyd
+  constituency: Rochdale
+  email: tony.lloyd.mp@parliament.uk
+- first_name: Carla
+  last_name: Lockhart
+  constituency: Upper Bann
+  email: carla.lockhart.mp@parliament.uk
+- first_name: Chris
+  last_name: Loder
+  constituency: West Dorset
+  email: chris.loder.mp@parliament.uk
+- first_name: Mark
+  last_name: Logan
+  constituency: Bolton North East
+  email: mark.logan.mp@parliament.uk
+- first_name: Rebecca
+  last_name: Long-Bailey
+  constituency: Salford and Eccles
+  email: rebecca.longbailey.mp@parliament.uk
+- first_name: Marco
+  last_name: Longhi
+  constituency: Dudley North
+  email: marco.longhi.mp@parliament.uk
+- first_name: Julia
+  last_name: Lopez
+  constituency: Hornchurch and Upminster
+  email: julia.lopez.mp@parliament.uk
+- first_name: Jack
+  last_name: Lopresti
+  constituency: Filton and Bradley Stoke
+  email: jack.lopresti.mp@parliament.uk
+- first_name: Jonathan
+  last_name: Lord
+  constituency: Woking
+  email: jonathan.lord.mp@parliament.uk
+- first_name: Tim
+  last_name: Loughton
+  constituency: East Worthing and Shoreham
+  email: loughtont@parliament.uk
+- first_name: Caroline
+  last_name: Lucas
+  constituency: Brighton, Pavilion
+  email: caroline.lucas.mp@parliament.uk
+- first_name: Holly
+  last_name: Lynch
+  constituency: Halifax
+  email: holly.lynch.mp@parliament.uk
+- first_name: Kenny
+  last_name: MacAskill
+  constituency: East Lothian
+  email: kenny.macaskill.mp@parliament.uk
+- first_name: Craig
+  last_name: Mackinlay
+  constituency: South Thanet
+  email: craig.mackinlay.mp@parliament.uk
+- first_name: Cherilyn
+  last_name: Mackrory
+  constituency: Truro and Falmouth
+  email: cherilyn.mackrory.mp@parliament.uk
+- first_name: Rachel
+  last_name: Maclean
+  constituency: Redditch
+  email: rachel.maclean.mp@parliament.uk
+- first_name: Angus
+  last_name: MacNeil
+  constituency: Na h-Eileanan an Iar
+  email: macneila@parliament.uk
+- first_name: Justin
+  last_name: Madders
+  constituency: Ellesmere Port and Neston
+  email: justin.madders.mp@parliament.uk
+- first_name: Khalid
+  last_name: Mahmood
+  constituency: Birmingham, Perry Barr
+  email: mahmoodk@parliament.uk
+- first_name: Shabana
+  last_name: Mahmood
+  constituency: Birmingham, Ladywood
+  email: shabana.mahmood.mp@parliament.uk
+- first_name: Alan
+  last_name: Mak
+  constituency: Havant
+  email: alan.mak.mp@parliament.uk
+- first_name: Seema
+  last_name: Malhotra
+  constituency: Feltham and Heston
+  email: seema.malhotra.mp@parliament.uk
+- first_name: Kit
+  last_name: Malthouse
+  constituency: North West Hampshire
+  email: kit.malthouse.mp@parliament.uk
+- first_name: Anthony
+  last_name: Mangnall
+  constituency: Totnes
+  email: anthony.mangnall.mp@parliament.uk
+- first_name: Scott
+  last_name: Mann
+  constituency: North Cornwall
+  email: scott.mann.mp@parliament.uk
+- first_name: Julie
+  last_name: Marson
+  constituency: Hertford and Stortford
+  email: julie.marson.mp@parliament.uk
+- first_name: Rachael
+  last_name: Maskell
+  constituency: York Central
+  email: rachael.maskell.mp@parliament.uk
+- first_name: Paul
+  last_name: Maskey
+  constituency: Belfast West
+  email: paul.maskey.mp@parliament.uk
+- first_name: Chris
+  last_name: Matheson
+  constituency: City of Chester
+  email: chris.matheson.mp@parliament.uk
+- first_name: Theresa
+  last_name: May
+  constituency: Maidenhead
+  email: mayt@parliament.uk
+- first_name: Jerome
+  last_name: Mayhew
+  constituency: Broadland
+  email: jerome.mayhew.mp@parliament.uk
+- first_name: Paul
+  last_name: Maynard
+  constituency: Blackpool North and Cleveleys
+  email: paul.maynard.mp@parliament.uk
+- first_name: Steve
+  last_name: McCabe
+  constituency: Birmingham, Selly Oak
+  email: mccabes@parliament.uk
+- first_name: Kerry
+  last_name: McCarthy
+  constituency: Bristol East
+  email: kerry.mccarthy.mp@parliament.uk
+- first_name: Jason
+  last_name: McCartney
+  constituency: Colne Valley
+  email: jason.mccartney.mp@parliament.uk
+- first_name: Karl
+  last_name: McCartney
+  constituency: Lincoln
+  email: karl.mccartney.mp@parliament.uk
+- first_name: Siobhain
+  last_name: McDonagh
+  constituency: Mitcham and Morden
+  email: mcdonaghs@parliament.uk
+- first_name: Andy
+  last_name: McDonald
+  constituency: Middlesbrough
+  email: info@andymcdonaldmp.org
+- first_name: Stewart
+  last_name: McDonald
+  constituency: Glasgow South
+  email: stewart.mcdonald.mp@parliament.uk
+- first_name: Stuart
+  last_name: McDonald
+  constituency: Cumbernauld, Kilsyth and Kirkintilloch East
+  email: stuart.mcdonald.mp@parliament.uk
+- first_name: John Martin
+  last_name: McDonnell
+  constituency: Hayes and Harlington
+  email: mcdonnellj@parliament.uk
+- first_name: Pat
+  last_name: McFadden
+  constituency: Wolverhampton South East
+  email: mcfaddenp@parliament.uk
+- first_name: Conor
+  last_name: McGinn
+  constituency: St Helens North
+  email: conor.mcginn.mp@parliament.uk
+- first_name: Alison
+  last_name: McGovern
+  constituency: Wirral South
+  email: alison.mcgovern.mp@parliament.uk
+- first_name: Catherine
+  last_name: McKinnell
+  constituency: Newcastle upon Tyne North
+  email: catherine.mckinnell.mp@parliament.uk
+- first_name: Anne
+  last_name: McLaughlin
+  constituency: Glasgow North East
+  email: anne.mclaughlin.mp@parliament.uk
+- first_name: Jim
+  last_name: McMahon
+  constituency: Oldham West and Royton
+  email: jim.mcmahon.mp@parliament.uk
+- first_name: Anna
+  last_name: McMorrin
+  constituency: Cardiff North
+  email: anna.mcmorrin.mp@parliament.uk
+- first_name: John
+  last_name: McNally
+  constituency: Falkirk
+  email: john.mcnally.mp@parliament.uk
+- first_name: Stephen
+  last_name: McPartland
+  constituency: Stevenage
+  email: stephen.mcpartland.mp@parliament.uk
+- first_name: Esther
+  last_name: McVey
+  constituency: Tatton
+  email: esther.mcvey.mp@parliament.uk
+- first_name: Ian
+  last_name: Mearns
+  constituency: Gateshead
+  email: ian.mearns.mp@parliament.uk
+- first_name: Mark
+  last_name: Menzies
+  constituency: Fylde
+  email: mark.menzies.mp@parliament.uk
+- first_name: Johnny
+  last_name: Mercer
+  constituency: Plymouth, Moor View
+  email: diary@johnnyforplymouth.co.uk
+- first_name: Huw
+  last_name: Merriman
+  constituency: Bexhill and Battle
+  email: huw.merriman.mp@parliament.uk
+- first_name: Stephen
+  last_name: Metcalfe
+  constituency: South Basildon and East Thurrock
+  email: stephen.metcalfe.mp@parliament.uk
+- first_name: Ed
+  last_name: Miliband
+  constituency: Doncaster North
+  email: ed.miliband.mp@parliament.uk
+- first_name: Robin
+  last_name: Millar
+  constituency: Aberconwy
+  email: robin.millar.mp@parliament.uk
+- first_name: Maria
+  last_name: Miller
+  constituency: Basingstoke
+  email: maria.miller.mp@parliament.uk
+- first_name: Amanda
+  last_name: Milling
+  constituency: Cannock Chase
+  email: amanda.milling.mp@parliament.uk
+- first_name: Nigel
+  last_name: Mills
+  constituency: Amber Valley
+  email: nigel.mills.mp@parliament.uk
+- first_name: Navendu
+  last_name: Mishra
+  constituency: Stockport
+  email: navendu.mishra.mp@parliament.uk
+- first_name: Andrew
+  last_name: Mitchell
+  constituency: Sutton Coldfield
+  email: andrew.mitchell.mp@parliament.uk
+- first_name: Gagan
+  last_name: Mohindra
+  constituency: South West Hertfordshire
+  email: gagan.mohindra.mp@parliament.uk
+- first_name: Francie
+  last_name: Molloy
+  constituency: Mid Ulster
+  email: francie.molloy.mp@parliament.uk
+- first_name: Carol
+  last_name: Monaghan
+  constituency: Glasgow North West
+  email: carol.monaghan.mp@parliament.uk
+- first_name: Damien
+  last_name: Moore
+  constituency: Southport
+  email: damien.moore.mp@parliament.uk
+- first_name: Robbie
+  last_name: Moore
+  constituency: Keighley
+  email: robbie.moore.mp@parliament.uk
+- first_name: Layla
+  last_name: Moran
+  constituency: Oxford West and Abingdon
+  email: layla.moran.mp@parliament.uk
+- first_name: Penny
+  last_name: Mordaunt
+  constituency: Portsmouth North
+  email: penny.mordaunt.mp@parliament.uk
+- first_name: Jessica
+  last_name: Morden
+  constituency: Newport East
+  email: mordenj@parliament.uk
+- first_name: Stephen
+  last_name: Morgan
+  constituency: Portsmouth South
+  email: stephen.morgan.mp@parliament.uk
+- first_name: Anne Marie
+  last_name: Morris
+  constituency: Newton Abbot
+  email: annemarie.morris.mp@parliament.uk
+- first_name: David
+  last_name: Morris
+  constituency: Morecambe and Lunesdale
+  email: david.morris.mp@parliament.uk
+- first_name: Grahame
+  last_name: Morris
+  constituency: Easington
+  email: grahame.morris.mp@parliament.uk
+- first_name: James
+  last_name: Morris
+  constituency: Halesowen and Rowley Regis
+  email: james.morris.mp@parliament.uk
+- first_name: Joy
+  last_name: Morrissey
+  constituency: Beaconsfield
+  email: joy.morrissey.mp@parliament.uk
+- first_name: Wendy
+  last_name: Morton
+  constituency: Aldridge-Brownhills
+  email: wendy.morton.mp@parliament.uk
+- first_name: Kieran
+  last_name: Mullan
+  constituency: Crewe and Nantwich
+  email: kieran.mullan.mp@parliament.uk
+- first_name: Holly
+  last_name: Mumby-Croft
+  constituency: Scunthorpe
+  email: holly.mumbycroft.mp@parliament.uk
+- first_name: David
+  last_name: Mundell
+  constituency: Dumfriesshire, Clydesdale and Tweeddale
+  email: david.mundell.mp@parliament.uk
+- first_name: Ian
+  last_name: Murray
+  constituency: Edinburgh South
+  email: ian.murray.mp@parliament.uk
+- first_name: James
+  last_name: Murray
+  constituency: Ealing North
+  email: james.murray.mp@parliament.uk
+- first_name: Sheryll
+  last_name: Murray
+  constituency: South East Cornwall
+  email: sheryll.murray.mp@parliament.uk
+- first_name: Andrew
+  last_name: Murrison
+  constituency: South West Wiltshire
+  email: murrisona@parliament.uk
+- first_name: Lisa
+  last_name: Nandy
+  constituency: Wigan
+  email: lisa.nandy.mp@parliament.uk
+- first_name: Bob
+  last_name: Neill
+  constituency: Bromley and Chislehurst
+  email: bob.neill.mp@parliament.uk
+- first_name: Gavin
+  last_name: Newlands
+  constituency: Paisley and Renfrewshire North
+  email: gavin.newlands.mp@parliament.uk
+- first_name: Charlotte
+  last_name: Nichols
+  constituency: Warrington North
+  email: charlotte.nichols.mp@parliament.uk
+- first_name: Lia
+  last_name: Nici
+  constituency: Great Grimsby
+  email: lia.nici.mp@parliament.uk
+- first_name: John
+  last_name: Nicolson
+  constituency: Ochil and South Perthshire
+  email: john.nicolson.mp@parliament.uk
+- first_name: Caroline
+  last_name: Nokes
+  constituency: Romsey and Southampton North
+  email: caroline.nokes.mp@parliament.uk
+- first_name: Jesse
+  last_name: Norman
+  constituency: Hereford and South Herefordshire
+  email: jesse.norman.mp@parliament.uk
+- first_name: Alex
+  last_name: Norris
+  constituency: Nottingham North
+  email: alex.norris.mp@parliament.uk
+- first_name: Neil
+  last_name: O'Brien
+  constituency: Harborough
+  email: neil.obrien.mp@parliament.uk
+- first_name: Brendan
+  last_name: O'Hara
+  constituency: Argyll and Bute
+  email: brendan.ohara.mp@parliament.uk
+- first_name: Matthew
+  last_name: Offord
+  constituency: Hendon
+  email: matthew.offord.mp@parliament.uk
+- first_name: Sarah
+  last_name: Olney
+  constituency: Richmond Park
+  email: sarah.olney.mp@parliament.uk
+- first_name: Chi
+  last_name: Onwurah
+  constituency: Newcastle upon Tyne Central
+  email: chi.onwurah.mp@parliament.uk
+- first_name: Guy
+  last_name: Opperman
+  constituency: Hexham
+  email: guy.opperman.mp@parliament.uk
+- first_name: Abena
+  last_name: Oppong-Asare
+  constituency: Erith and Thamesmead
+  email: abena.oppongasare.mp@parliament.uk
+- first_name: Kate
+  last_name: Osamor
+  constituency: Edmonton
+  email: kate.osamor.mp@parliament.uk
+- first_name: Kate
+  last_name: Osborne
+  constituency: Jarrow
+  email: kate.osborne.mp@parliament.uk
+- first_name: Kirsten
+  last_name: Oswald
+  constituency: East Renfrewshire
+  email: kirsten.oswald.mp@parliament.uk
+- first_name: Taiwo
+  last_name: Owatemi
+  constituency: Coventry North West
+  email: taiwo.owatemi.mp@parliament.uk
+- first_name: Sarah
+  last_name: Owen
+  constituency: Luton North
+  email: sarah.owen.mp@parliament.uk
+- first_name: Ian
+  last_name: Paisley Jnr
+  constituency: North Antrim
+  email: ian.paisley.mp@parliament.uk
+- first_name: Neil
+  last_name: Parish
+  constituency: Tiverton and Honiton
+  email: neil.parish.mp@parliament.uk
+- first_name: Priti
+  last_name: Patel
+  constituency: Witham
+  email: withammp@parliament.uk
+- first_name: Owen
+  last_name: Paterson
+  constituency: North Shropshire
+  email: Patersono@parliament.uk
+- first_name: Mark
+  last_name: Pawsey
+  constituency: Rugby
+  email: mark.pawsey.mp@parliament.uk
+- first_name: Stephanie
+  last_name: Peacock
+  constituency: Barnsley East
+  email: stephanie.peacock.mp@parliament.uk
+- first_name: Mike
+  last_name: Penning
+  constituency: Hemel Hempstead
+  email: penningm@parliament.uk
+- first_name: Matthew
+  last_name: Pennycook
+  constituency: Greenwich and Woolwich
+  email: matthew.pennycook.mp@parliament.uk
+- first_name: John
+  last_name: Penrose
+  constituency: Weston-Super-Mare
+  email: teresa.ridley@parliament.uk
+- first_name: Andrew
+  last_name: Percy
+  constituency: Brigg and Goole
+  email: andrew.percy.mp@parliament.uk
+- first_name: Toby
+  last_name: Perkins
+  constituency: Chesterfield
+  email: toby.perkins.mp@parliament.uk
+- first_name: Jess
+  last_name: Phillips
+  constituency: Birmingham, Yardley
+  email: jess.phillips.mp@parliament.uk
+- first_name: Bridget
+  last_name: Phillipson
+  constituency: Houghton and Sunderland South
+  email: bridget.phillipson.mp@parliament.uk
+- first_name: Chris
+  last_name: Philp
+  constituency: Croydon South
+  email: chris.philp.mp@parliament.uk
+- first_name: Christopher
+  last_name: Pincher
+  constituency: Tamworth
+  email: christopher.pincher.mp@parliament.uk
+- first_name: Luke
+  last_name: Pollard
+  constituency: Plymouth, Sutton and Devonport
+  email: luke.pollard.mp@parliament.uk
+- first_name: Daniel
+  last_name: Poulter
+  constituency: Central Suffolk and North Ipswich
+  email: daniel.poulter.mp@parliament.uk
+- first_name: Rebecca
+  last_name: Pow
+  constituency: Taunton Deane
+  email: rebecca.pow.mp@parliament.uk
+- first_name: Lucy
+  last_name: Powell
+  constituency: Manchester Central
+  email: contact@lucypowell.org.uk
+- first_name: Victoria
+  last_name: Prentis
+  constituency: Banbury
+  email: victoria.prentis.mp@parliament.uk
+- first_name: Mark
+  last_name: Pritchard
+  constituency: The Wrekin
+  email: pritchardm@parliament.uk
+- first_name: Tom
+  last_name: Pursglove
+  constituency: Corby
+  email: tom.pursglove.mp@parliament.uk
+- first_name: Jeremy
+  last_name: Quin
+  constituency: Horsham
+  email: jeremy.quin.mp@parliament.uk
+- first_name: Will
+  last_name: Quince
+  constituency: Colchester
+  email: will.quince.mp@parliament.uk
+- first_name: Yasmin
+  last_name: Qureshi
+  constituency: Bolton South East
+  email: yasmin.qureshi.mp@parliament.uk
+- first_name: Dominic
+  last_name: Raab
+  constituency: Esher and Walton
+  email: dominic.raab.mp@parliament.uk
+- first_name: Tom
+  last_name: Randall
+  constituency: Gedling
+  email: tom.randall.mp@parliament.uk
+- first_name: Angela
+  last_name: Rayner
+  constituency: Ashton-under-Lyne
+  email: angela.rayner.mp@parliament.uk
+- first_name: John
+  last_name: Redwood
+  constituency: Wokingham
+  email: john.redwood.mp@parliament.uk
+- first_name: Steve
+  last_name: Reed
+  constituency: Croydon North
+  email: steve.reed.mp@parliament.uk
+- first_name: Christina
+  last_name: Rees
+  constituency: Neath
+  email: christina.rees.mp@parliament.uk
+- first_name: Jacob
+  last_name: Rees-Mogg
+  constituency: North East Somerset
+  email: jacob.reesmogg.mp@parliament.uk
+- first_name: Ellie
+  last_name: Reeves
+  constituency: Lewisham West and Penge
+  email: ellie.reeves.mp@parliament.uk
+- first_name: Rachel
+  last_name: Reeves
+  constituency: Leeds West
+  email: rachel.reeves.mp@parliament.uk
+- first_name: Jonathan
+  last_name: Reynolds
+  constituency: Stalybridge and Hyde
+  email: jonathan.reynolds.mp@parliament.uk
+- first_name: Bell
+  last_name: Ribeiro-Addy
+  constituency: Streatham
+  email: bell.ribeiroaddy.mp@parliament.uk
+- first_name: Nicola
+  last_name: Richards
+  constituency: West Bromwich East
+  email: nicola.richards.mp@parliament.uk
+- first_name: Angela
+  last_name: Richardson
+  constituency: Guildford
+  email: angela.richardson.mp@parliament.uk
+- first_name: Marie
+  last_name: Rimmer
+  constituency: St Helens South and Whiston
+  email: marie.rimmer.mp@parliament.uk
+- first_name: Rob
+  last_name: Roberts
+  constituency: Delyn
+  email: rob.roberts.mp@parliament.uk
+- first_name: Laurence
+  last_name: Robertson
+  constituency: Tewkesbury
+  email: robertsonl@parliament.uk
+- first_name: Gavin
+  last_name: Robinson
+  constituency: Belfast East
+  email: gavin.robinson.mp@parliament.uk
+- first_name: Mary
+  last_name: Robinson
+  constituency: Cheadle
+  email: mary.robinson.mp@parliament.uk
+- first_name: Matt
+  last_name: Rodda
+  constituency: Reading East
+  email: matt.rodda.mp@parliament.uk
+- first_name: Andrew
+  last_name: Rosindell
+  constituency: Romford
+  email: andrew.rosindell.mp@parliament.uk
+- first_name: Douglas
+  last_name: Ross
+  constituency: Moray
+  email: douglas.ross.mp@parliament.uk
+- first_name: Lee
+  last_name: Rowley
+  constituency: North East Derbyshire
+  email: lee.rowley.mp@parliament.uk
+- first_name: Dean
+  last_name: Russell
+  constituency: Watford
+  email: dean.russell.mp@parliament.uk
+- first_name: Lloyd
+  last_name: Russell-Moyle
+  constituency: Brighton, Kemptown
+  email: lloyd.russellmoyle.mp@parliament.uk
+- first_name: David
+  last_name: Rutley
+  constituency: Macclesfield
+  email: david.rutley.mp@parliament.uk
+- first_name: Gary
+  last_name: Sambrook
+  constituency: Birmingham, Northfield
+  email: gary.sambrook.mp@parliament.uk
+- first_name: Liz
+  last_name: Saville-Roberts
+  constituency: Dwyfor Meirionnydd
+  email: liz.savilleroberts.mp@parliament.uk
+- first_name: Selaine
+  last_name: Saxby
+  constituency: North Devon
+  email: selaine.saxby.mp@parliament.uk
+- first_name: Paul
+  last_name: Scully
+  constituency: Sutton and Cheam
+  email: paul.scully.mp@parliament.uk
+- first_name: Bob
+  last_name: Seely
+  constituency: Isle of Wight
+  email: bob.seely.mp@parliament.uk
+- first_name: Andrew
+  last_name: Selous
+  constituency: South West Bedfordshire
+  email: andrew.selous.mp@parliament.uk
+- first_name: Naseem
+  last_name: Shah
+  constituency: Bradford West
+  email: naz.shah.mp@parliament.uk
+- first_name: Jim
+  last_name: Shannon
+  constituency: Strangford
+  email: jim.shannon.mp@parliament.uk
+- first_name: Grant
+  last_name: Shapps
+  constituency: Welwyn Hatfield
+  email: shappsg@parliament.uk
+- first_name: Alok
+  last_name: Sharma
+  constituency: Reading West
+  email: alok.sharma.mp@parliament.uk
+- first_name: Virendra
+  last_name: Sharma
+  constituency: Ealing, Southall
+  email: sharmav@parliament.uk
+- first_name: Barry
+  last_name: Sheerman
+  constituency: Huddersfield
+  email: sheermanb@parliament.uk
+- first_name: Alec
+  last_name: Shelbrooke
+  constituency: Elmet and Rothwell
+  email: alec.shelbrooke.mp@parliament.uk
+- first_name: Tommy
+  last_name: Sheppard
+  constituency: Edinburgh East
+  email: tommy.sheppard.mp@parliament.uk
+- first_name: Tulip
+  last_name: Siddiq
+  constituency: Hampstead and Kilburn
+  email: tulip.siddiq.mp@parliament.uk
+- first_name: David
+  last_name: Simmonds
+  constituency: Ruislip, Northwood and Pinner
+  email: david.simmonds.mp@parliament.uk
+- first_name: Chris
+  last_name: Skidmore
+  constituency: Kingswood
+  email: chris.skidmore.mp@parliament.uk
+- first_name: Andrew
+  last_name: Slaughter
+  constituency: Hammersmith
+  email: slaughtera@parliament.uk
+- first_name: Alyn
+  last_name: Smith
+  constituency: Stirling
+  email: alyn.smith.mp@parliament.uk
+- first_name: Cat
+  last_name: Smith
+  constituency: Lancaster and Fleetwood
+  email: cat.smith.mp@parliament.uk
+- first_name: Chloe
+  last_name: Smith
+  constituency: Norwich North
+  email: chloe@chloesmith.org.uk
+- first_name: Greg
+  last_name: Smith
+  constituency: Buckingham
+  email: greg.smith.mp@parliament.uk
+- first_name: Henry
+  last_name: Smith
+  constituency: Crawley
+  email: henry.smith.mp@parliament.uk
+- first_name: Jeff
+  last_name: Smith
+  constituency: Manchester, Withington
+  email: jeff.smith.mp@parliament.uk
+- first_name: Julian
+  last_name: Smith
+  constituency: Skipton and Ripon
+  email: julian.smith.mp@parliament.uk
+- first_name: Nick
+  last_name: Smith
+  constituency: Blaenau Gwent
+  email: nick.smith.mp@parliament.uk
+- first_name: Royston
+  last_name: Smith
+  constituency: Southampton, Itchen
+  email: royston.smith.mp@parliament.uk
+- first_name: Karin
+  last_name: Smyth
+  constituency: Bristol South
+  email: karin.smyth.mp@parliament.uk
+- first_name: Alex
+  last_name: Sobel
+  constituency: Leeds North West
+  email: alex.sobel.mp@parliament.uk
+- first_name: Amanda
+  last_name: Solloway
+  constituency: Derby North
+  email: amanda.solloway.mp@parliament.uk
+- first_name: John
+  last_name: Spellar
+  constituency: Warley
+  email: john.spellar.mp@parliament.uk
+- first_name: Ben
+  last_name: Spencer
+  constituency: Runnymede and Weybridge
+  email: ben.spencer.mp@parliament.uk
+- first_name: Mark
+  last_name: Spencer
+  constituency: Sherwood
+  email: mark.spencer.mp@parliament.uk
+- first_name: Alexander
+  last_name: Stafford
+  constituency: Rother Valley
+  email: alexander.stafford.mp@parliament.uk
+- first_name: Keir
+  last_name: Starmer
+  constituency: Holborn and St Pancras
+  email: keir.starmer.mp@parliament.uk
+- first_name: Chris
+  last_name: Stephens
+  constituency: Glasgow South West
+  email: chris.stephens.mp@parliament.uk
+- first_name: Andrew
+  last_name: Stephenson
+  constituency: Pendle
+  email: andrew.stephenson.mp@parliament.uk
+- first_name: Jo
+  last_name: Stevens
+  constituency: Cardiff Central
+  email: jo.stevens.mp@parliament.uk
+- first_name: Jane
+  last_name: Stevenson
+  constituency: Wolverhampton North East
+  email: jane.stevenson.mp@parliament.uk
+- first_name: John
+  last_name: Stevenson
+  constituency: Carlisle
+  email: john.stevenson.mp@parliament.uk
+- first_name: Bob
+  last_name: Stewart
+  constituency: Beckenham
+  email: bob.stewart.mp@parliament.uk
+- first_name: Iain
+  last_name: Stewart
+  constituency: Milton Keynes South
+  email: iain.stewart.mp@parliament.uk
+- first_name: Jamie
+  last_name: Stone
+  constituency: Caithness, Sutherland and Easter Ross
+  email: jamie.stone.mp@parliament.uk
+- first_name: Gary
+  last_name: Streeter
+  constituency: South West Devon
+  email: deans@parliament.uk
+- first_name: Wes
+  last_name: Streeting
+  constituency: Ilford North
+  email: wes.streeting.mp@parliament.uk
+- first_name: Mel
+  last_name: Stride
+  constituency: Central Devon
+  email: mel.stride.mp@parliament.uk
+- first_name: Graham
+  last_name: Stringer
+  constituency: Blackley and Broughton
+  email: graham.stringer.mp@parliament.uk
+- first_name: Graham
+  last_name: Stuart
+  constituency: Beverley and Holderness
+  email: grahamstuartmp@parliament.uk
+- first_name: Julian
+  last_name: Sturdy
+  constituency: York Outer
+  email: julian.sturdy.mp@parliament.uk
+- first_name: Zarah
+  last_name: Sultana
+  constituency: Coventry South
+  email: zarah.sultana.mp@parliament.uk
+- first_name: Rishi
+  last_name: Sunak
+  constituency: Richmond (Yorks)
+  email: rishi.sunak.mp@parliament.uk
+- first_name: James
+  last_name: Sunderland
+  constituency: Bracknell
+  email: james.sunderland.mp@parliament.uk
+- first_name: Desmond
+  last_name: Swayne
+  constituency: New Forest West
+  email: swayned@parliament.uk
+- first_name: Robert
+  last_name: Syms
+  constituency: Poole
+  email: symsmp.office@parliament.uk
+- first_name: Mark
+  last_name: Tami
+  constituency: Alyn and Deeside
+  email: tamim@parliament.uk
+- first_name: Sam
+  last_name: Tarry
+  constituency: Ilford South
+  email: sam.tarry.mp@parliament.uk
+- first_name: Alison
+  last_name: Thewliss
+  constituency: Glasgow Central
+  email: alison.thewliss.mp@parliament.uk
+- first_name: Derek
+  last_name: Thomas
+  constituency: St Ives
+  email: derek.thomas.mp@parliament.uk
+- first_name: Gareth
+  last_name: Thomas
+  constituency: Harrow West
+  email: thomasgr@parliament.uk
+- first_name: Nick
+  last_name: Thomas-Symonds
+  constituency: Torfaen
+  email: nick.thomassymonds.mp@parliament.uk
+- first_name: Owen
+  last_name: Thompson
+  constituency: Midlothian
+  email: owen.thompson.mp@parliament.uk
+- first_name: Richard
+  last_name: Thomson
+  constituency: Gordon
+  email: richard.thomson.mp@parliament.uk
+- first_name: Emily
+  last_name: Thornberry
+  constituency: Islington South and Finsbury
+  email: thornberrye@parliament.uk
+- first_name: Maggie
+  last_name: Throup
+  constituency: Erewash
+  email: maggie.throup.mp@parliament.uk
+- first_name: Stephen
+  last_name: Timms
+  constituency: East Ham
+  email: timmss@parliament.uk
+- first_name: Edward
+  last_name: Timpson
+  constituency: Eddisbury
+  email: edward.timpson.mp@parliament.uk
+- first_name: Kelly
+  last_name: Tolhurst
+  constituency: Rochester and Strood
+  email: kelly.tolhurst.mp@parliament.uk
+- first_name: Justin
+  last_name: Tomlinson
+  constituency: North Swindon
+  email: justin.tomlinson.mp@parliament.uk
+- first_name: Michael
+  last_name: Tomlinson
+  constituency: Mid Dorset and North Poole
+  email: michael.tomlinson.mp@parliament.uk
+- first_name: Craig
+  last_name: Tracey
+  constituency: North Warwickshire
+  email: craig.tracey.mp@parliament.uk
+- first_name: Anne-Marie
+  last_name: Trevelyan
+  constituency: Berwick-upon-Tweed
+  email: annemarie.trevelyan.mp@parliament.uk
+- first_name: Jon
+  last_name: Trickett
+  constituency: Hemsworth
+  email: trickettj@parliament.uk
+- first_name: Laura
+  last_name: Trott
+  constituency: Sevenoaks
+  email: laura.trott.mp@parliament.uk
+- first_name: Elizabeth
+  last_name: Truss
+  constituency: South West Norfolk
+  email: elizabeth.truss.mp@parliament.uk
+- first_name: Thomas
+  last_name: Tugendhat
+  constituency: Tonbridge and Malling
+  email: tom.tugendhat.mp@parliament.uk
+- first_name: Karl
+  last_name: Turner
+  constituency: Kingston upon Hull East
+  email: karl.turner.mp@parliament.uk
+- first_name: Derek
+  last_name: Twigg
+  constituency: Halton
+  email: derek.twigg.mp@parliament.uk
+- first_name: Liz
+  last_name: Twist
+  constituency: Blaydon
+  email: liz.twist.mp@parliament.uk
+- first_name: Shailesh
+  last_name: Vara
+  constituency: North West Cambridgeshire
+  email: shailesh.vara.mp@parliament.uk
+- first_name: Valerie
+  last_name: Vaz
+  constituency: Walsall South
+  email: valerie.vaz.mp@parliament.uk
+- first_name: Martin
+  last_name: Vickers
+  constituency: Cleethorpes
+  email: martin.vickers.mp@parliament.uk
+- first_name: Matt
+  last_name: Vickers
+  constituency: Stockton South
+  email: matt.vickers.mp@parliament.uk
+- first_name: Theresa
+  last_name: Villiers
+  constituency: Chipping Barnet
+  email: theresa@theresavilliers.co.uk
+- first_name: Christian
+  last_name: Wakeford
+  constituency: Bury South
+  email: christian.wakeford.mp@parliament.uk
+- first_name: Charles
+  last_name: Walker
+  constituency: Broxbourne
+  email: charles.walker.mp@parliament.uk
+- first_name: Robin
+  last_name: Walker
+  constituency: Worcester
+  email: robin.walker.mp@parliament.uk
+- first_name: Ben
+  last_name: Wallace
+  constituency: Wyre and Preston North
+  email: wallaceb@parliament.uk
+- first_name: Jamie
+  last_name: Wallis
+  constituency: Bridgend
+  email: jamie.wallis.mp@parliament.uk
+- first_name: David
+  last_name: Warburton
+  constituency: Somerton and Frome
+  email: david.warburton.mp@parliament.uk
+- first_name: Matt
+  last_name: Warman
+  constituency: Boston and Skegness
+  email: matt.warman.mp@parliament.uk
+- first_name: Giles
+  last_name: Watling
+  constituency: Clacton
+  email: giles.watling.mp@parliament.uk
+- first_name: Suzanne
+  last_name: Webb
+  constituency: Stourbridge
+  email: suzanne.webb.mp@parliament.uk
+- first_name: Claudia
+  last_name: Webbe
+  constituency: Leicester East
+  email: claudia.webbe.mp@parliament.uk
+- first_name: Catherine
+  last_name: West
+  constituency: Hornsey and Wood Green
+  email: catherine.west.mp@parliament.uk
+- first_name: Matt
+  last_name: Western
+  constituency: Warwick and Leamington
+  email: matt.western.mp@parliament.uk
+- first_name: Helen
+  last_name: Whately
+  constituency: Faversham and Mid Kent
+  email: helen.whately.mp@parliament.uk
+- first_name: Heather
+  last_name: Wheeler
+  constituency: South Derbyshire
+  email: heather.wheeler.mp@parliament.uk
+- first_name: Alan
+  last_name: Whitehead
+  constituency: Southampton, Test
+  email: whiteheada@parliament.uk
+- first_name: Philippa
+  last_name: Whitford
+  constituency: Central Ayrshire
+  email: philippa.whitford.mp@parliament.uk
+- first_name: Mick
+  last_name: Whitley
+  constituency: Birkenhead
+  email: mick.whitley.mp@parliament.uk
+- first_name: Craig
+  last_name: Whittaker
+  constituency: Calder Valley
+  email: craig.whittaker.mp@parliament.uk
+- first_name: John
+  last_name: Whittingdale
+  constituency: Maldon
+  email: john.whittingdale.mp@parliament.uk
+- first_name: Nadia
+  last_name: Whittome
+  constituency: Nottingham East
+  email: nadia.whittome.mp@parliament.uk
+- first_name: Bill
+  last_name: Wiggin
+  constituency: North Herefordshire
+  email: bill.wiggin.mp@parliament.uk
+- first_name: James
+  last_name: Wild
+  constituency: North West Norfolk
+  email: james.wild.mp@parliament.uk
+- first_name: Craig
+  last_name: Williams
+  constituency: Montgomeryshire
+  email: craig.williams.mp@parliament.uk
+- first_name: Hywel
+  last_name: Williams
+  constituency: Arfon
+  email: hywel.williams.mp@parliament.uk
+- first_name: Gavin
+  last_name: Williamson
+  constituency: South Staffordshire
+  email: gavin.williamson.mp@parliament.uk
+- first_name: Munira
+  last_name: Wilson
+  constituency: Twickenham
+  email: munira.wilson.mp@parliament.uk
+- first_name: Sammy
+  last_name: Wilson
+  constituency: East Antrim
+  email: barronj@parliament.uk
+- first_name: Beth
+  last_name: Winter
+  constituency: Cynon Valley
+  email: beth.winter.mp@parliament.uk
+- first_name: Rosie
+  last_name: Winterton
+  constituency: Doncaster Central
+  email: rosie.winterton.mp@parliament.uk
+- first_name: Pete
+  last_name: Wishart
+  constituency: Perth and North Perthshire
+  email: wishartp@parliament.uk
+- first_name: Mike
+  last_name: Wood
+  constituency: Dudley South
+  email: mikej.wood.mp@parliament.uk
+- first_name: William
+  last_name: Wragg
+  constituency: Hazel Grove
+  email: william@williamwragg.org.uk
+- first_name: Jeremy
+  last_name: Wright
+  constituency: Kenilworth and Southam
+  email: Jeremy.wright.mp@parliament.uk
+- first_name: Mohammad
+  last_name: Yasin
+  constituency: Bedford
+  email: mohammad.yasin.mp@parliament.uk
+- first_name: Jacob
+  last_name: Young
+  constituency: Redcar
+  email: jacob.young.mp@parliament.uk
+- first_name: Nadhim
+  last_name: Zahawi
+  constituency: Stratford-on-Avon
+  email: nadhim.zahawi.mp@parliament.uk
+- first_name: Daniel
+  last_name: Zeichner
+  constituency: Cambridge
+  email: daniel@danielzeichner.co.uk
